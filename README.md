@@ -11,7 +11,7 @@ A Command line tool to solve and play ballsort puzzle game using one of the foll
 - Image Processing Module
 - Ball Sort Puzzle Solver
 
-![](./imgs/BAPSAP.svg)
+![](./imgs/BAPSAP.png)
 
 ## Usage
 ### Using ADB
@@ -43,6 +43,6 @@ State Entropy is the sum of tube entropies of all the tubes in the state.
 where tube entropy of the state  is defined as:
 1. 1 + (the number of discontinuties in the color of the two adjacent balls) for non empty tubes
 2. 0 for empty tubes  
-![](./imgs/Entorpy.svg)
+![](./imgs/Entorpy.png)
 
 
